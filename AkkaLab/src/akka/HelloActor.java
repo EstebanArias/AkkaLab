@@ -13,7 +13,7 @@ class HelloActor extends UntypedActor{
 				break;
 			}
 			default:
-				System.out.println("Cambiemos la despedida!");
+				System.out.println("Cambiemos la despedida, otra vez!");
 			}
 		}
 		else{
